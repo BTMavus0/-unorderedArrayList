@@ -1,3 +1,4 @@
+//Comments were added for Git cloning
 // ListApplication.cpp : Defines the entry point for the console application.
 //
 
