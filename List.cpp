@@ -1,4 +1,4 @@
-
+//Comments were added for Git cloning
 #include "StdAfx.h"
 #include <iostream>
 #include "List.h"
